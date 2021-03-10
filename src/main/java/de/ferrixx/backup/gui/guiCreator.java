@@ -58,17 +58,17 @@ public class guiCreator extends JPanel implements ActionListener {
         passwordLabel.setBounds(495, 0, 200, 30);
         password.setBounds(420, 25, 200, 30);
 
-        log = new JTextArea(12, 65);
+        log = new JTextArea(12, 75);
         log.setEditable(false);
         log.setSize(getWidth(), getHeight());
         JScrollPane logScrollPane = new JScrollPane(log);
         JPanel logPanel = new JPanel();
         logPanel.add(logScrollPane);
-        logPanel.setBounds(10, 100, 600, 500);
+        logPanel.setBounds(10, 100, 620, 500);
 
         JLabel copyright = new JLabel();
-        copyright.setText("Copyright (c) Justin Ippen 2021 - https://ferrixx.de");
-        copyright.setBounds(180, 335, 400, 20);
+        copyright.setText("Copyright (c) Justin Ippen 2021 - https://ferrixx.de - Version 1.0.6");
+        copyright.setBounds(145, 335, 400, 20);
 
         add(copyright);
         add(buttonPanel);
@@ -89,8 +89,8 @@ public class guiCreator extends JPanel implements ActionListener {
         URL url = Main.class.getResource("/logo.png");
         jFrame.setIconImage(Toolkit.getDefaultToolkit().getImage(url));
 
-        //jFrame.setResizable(false);
-        jFrame.setSize(645, 400);
+        jFrame.setResizable(false);
+        jFrame.setSize(645, 395);
         jFrame.add(new guiCreator());
 
         try {
