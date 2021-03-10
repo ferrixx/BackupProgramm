@@ -37,7 +37,7 @@ Then you should choose a folder that you want to save on your server.
 The folder / file is then zipped to C: / Users / $ username / Documents. 
 There you will find a .zip with the folder / file name and a date and time. 
 You will also find it again on your server.
-The .zip on you Local PC will automaticlly deleted after Upload for Saving Space! :)
+The Zip File on Your Local Machine will be Automatically deleted once it has been Uploaded. :)
 ```
 
 
