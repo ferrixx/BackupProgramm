@@ -6,6 +6,8 @@
   </a>
 </p>
 
+[![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.com/package/discord.js)
+
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 > BackupProgramm is a Programm to Backup Files or Folders to a Server from you. You have to Enter Server-IP, Username and a Password. 
