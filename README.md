@@ -7,7 +7,6 @@
 </p>
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 > BackupProgramm is a Programm to Backup Files or Folders to a Server from you. You have to Enter Server-IP, Username and a Password. 
