@@ -4,6 +4,7 @@
   <a href="#" target="_blank">
     <img alt="License: Apache" src="https://img.shields.io/badge/License-Apache-yellow.svg" />
   </a>
+  [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
   <a href="https://twitter.com/ferrixx1" target="_blank">
     <img alt="Twitter: ferrixx1" src="https://img.shields.io/twitter/follow/ferrixx1.svg?style=social" />
   </a>
