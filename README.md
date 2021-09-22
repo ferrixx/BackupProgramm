@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to BackupProgramm 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.6-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: Apache" src="https://img.shields.io/badge/License-Apache-yellow.svg" />
-  </a>
 </p>
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
