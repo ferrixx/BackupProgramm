@@ -1,9 +1,17 @@
 <h1 align="center">Welcome to BackupProgramm 👋</h1>
 
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/ferrixx/BackupProgramm)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/ferrixx/BackupProgramm/releases)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/ferrixx/BackupProgramm/blob/main/LICENSE)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+_Social buttons_
+
+[![ferrixx - BackupProgramm](https://img.shields.io/static/v1?label=ferrixx&message=BackupProgramm&color=blue&logo=github)](https://github.com/ferrixx/BackupProgramm)
+[![stars - BackupProgramm](https://img.shields.io/github/stars/ferrixx/BackupProgramm?style=social)](https://github.com/ferrixx/BackupProgramm)
+[![forks - BackupProgramm](https://img.shields.io/github/forks/ferrixx/BackupProgramm?style=social)](https://github.com/ferrixx/BackupProgramm)
+
+_Repo metadata_
+
+
+[![GitHub tag](https://img.shields.io/github/tag/ferrixx/BackupProgramm?include_prereleases=&sort=semver&color=blue)](https://github.com/ferrixx/BackupProgramm/releases/)
+[![License](https://img.shields.io/badge/License-Apache2-blue)](#license)
+[![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/)
 
 > BackupProgramm is a Programm to Backup Files or Folders to a Server from you. You have to Enter Server-IP, Username and a Password. 
 > The Files / Folders are then Zipped and Uploaded via FTP.
@@ -52,6 +60,10 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## License
+
+Released under [Apache2](/LICENSE) by [@ferrixx](https://github.com/ferrixx).
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
