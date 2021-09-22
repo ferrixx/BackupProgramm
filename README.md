@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.com/package/discord.js)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
