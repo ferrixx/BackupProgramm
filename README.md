@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to BackupProgramm 👋</h1>
 
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/ferrixx/BackupProgramm)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/ferrixx/BackupProgramm/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/ferrixx/BackupProgramm/blob/main/LICENSE)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 > BackupProgramm is a Programm to Backup Files or Folders to a Server from you. You have to Enter Server-IP, Username and a Password. 
